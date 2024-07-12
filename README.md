@@ -2,7 +2,7 @@
 
 De profesión Ingeniero constructor, con posgrado MBA (Master in Business Administration).
 
-Cuento con más de 10 años de experiencia profesional en trabajos con un alto nivel de análisis y gestión en el rubro de la construcción e inmobiliario.
+Cuento con experiencia profesional en trabajos con un alto nivel de análisis y gestión en el rubro de la construcción e inmobiliario.
 
 En lo personal, me considero una persona responsable, organizada, con flexibilidad a los cambios e interés por el mejoramiento continuo.
 
