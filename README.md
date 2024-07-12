@@ -1,10 +1,10 @@
 # Hola 👋, soy Vanessa
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+De profesión Ingeniero constructor, con posgrado MBA (Master in Business Administration).
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+Cuento con más de 10 años de experiencia profesional en trabajos con un alto nivel de análisis y gestión en el rubro de la construcción e inmobiliario.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+En lo personal, me considero una persona responsable, organizada, con flexibilidad a los cambios e interés por el mejoramiento continuo.
 
 ## 📫 Contacto
 
