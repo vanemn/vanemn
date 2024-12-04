@@ -1,4 +1,4 @@
-# Hola 👋, soy Vanessa
+# Hola 👋, mi nombre es Vanessa
 
 De profesión Ingeniero constructor, con posgrado MBA (Master in Business Administration).
 
