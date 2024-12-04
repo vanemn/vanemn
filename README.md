@@ -2,10 +2,11 @@
 
 De profesión Ingeniero constructor, con posgrado MBA (Master in Business Administration).
 
-Cuento con experiencia profesional en trabajos con un alto nivel de análisis y gestión en el rubro de la construcción e inmobiliario.
+Mi experiencia técnica incluye la gestión de equipos, la planificación y ejecución de proyectos complejos, y la optimización de procesos para asegurar resultados de alta calidad. Estos proyectos me han dotado de habilidades transferibles como la resolución de problemas complejos, la coordinación de equipos multidisciplinarios y la gestión eficaz del tiempo.
+
+Actualmente, estoy buscando nuevas oportunidades para aprovechar mi experiencia en construcción e inmobiliario y mi pasión por el desarrollo web, contribuyendo a proyectos innovadores y sostenibles. Estoy interesada en aportar mi enfoque analítico y mi capacidad para liderar proyectos a una organización visionaria.
 
 En lo personal, me considero una persona responsable, organizada, con flexibilidad a los cambios e interés por el mejoramiento continuo.
-
 ## 📫 Contacto
 
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/vanessamoralesnorambuena)**
@@ -18,8 +19,7 @@ En lo personal, me considero una persona responsable, organizada, con flexibilid
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 ### 📎 Herramientas
 
@@ -28,4 +28,4 @@ En lo personal, me considero una persona responsable, organizada, con flexibilid
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)    
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
