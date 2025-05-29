@@ -27,6 +27,5 @@ En lo personal, me considero una persona responsable, organizada, con flexibilid
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-F6A600?style=for-the-badge&logo=autodesk&logoColor=white)  
 ![Revit](https://img.shields.io/badge/Revit-D50032?style=for-the-badge&logo=autodesk&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)    
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
