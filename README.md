@@ -1,10 +1,10 @@
 # Hola 👋, mi nombre es Vanessa
 
-De profesión Ingeniero constructor, con posgrado MBA (Master in Business Administration).
+Posgrado MBA (Master in Business Administration) y curso mi segunda maestría en Empresa y tecnologías de la información.
 
 Mi experiencia técnica incluye la gestión de equipos, la planificación y ejecución de proyectos complejos, y la optimización de procesos para asegurar resultados de alta calidad. Estos proyectos me han dotado de habilidades transferibles como la resolución de problemas, la coordinación de equipos multidisciplinarios y la gestión eficaz del tiempo.
 
-Actualmente, estoy buscando nuevas oportunidades para aprovechar mi experiencia en construcción e inmobiliario y mi pasión por el desarrollo web, contribuyendo a proyectos innovadores y sostenibles. Estoy interesada en aportar con enfoque analítico y capacidad para gestionar proyectos.
+Actualmente, estoy buscando nuevas oportunidades para aprovechar mi experiencia, contribuyendo a proyectos innovadores y sostenibles. Estoy interesada en aportar con enfoque analítico y capacidad para gestionar proyectos.
 
 ## 📫 Contacto
 
