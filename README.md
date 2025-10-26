@@ -1,6 +1,6 @@
 # Hola 👋, mi nombre es Vanessa
 
-Posgrado MBA (Master in Business Administration) y curso mi segunda maestría en Empresa y tecnologías de la información.
+Posgrado MBA (Master in Business Administration)en Chile y curso mi segunda maestría en Empresa y tecnologías de la información en España.
 
 Mi experiencia técnica incluye la gestión de equipos, la planificación y ejecución de proyectos complejos, y la optimización de procesos para asegurar resultados de alta calidad. Estos proyectos me han dotado de habilidades transferibles como la resolución de problemas, la coordinación de equipos multidisciplinarios y la gestión eficaz del tiempo.
 
