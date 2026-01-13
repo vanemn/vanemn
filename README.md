@@ -1,4 +1,4 @@
-# Hola 👋, mi nombre es Vanessa
+# Hola, mi nombre es Vanessa
 
 Posgrado MBA (Master in Business Administration)en Chile y curso maestría en Empresa y Tecnologías de la Información en España.
 
