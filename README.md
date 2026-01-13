@@ -2,9 +2,6 @@
 
 Posgrado MBA (Master in Business Administration)en Chile y curso maestría en Empresa y Tecnologías de la Información en España.
 
-Mi experiencia técnica incluye la gestión de equipos, la planificación y ejecución de proyectos complejos, y la optimización de procesos para asegurar resultados de alta calidad. Estos proyectos me han dotado de habilidades transferibles como la resolución de problemas, la coordinación de equipos multidisciplinarios y la gestión eficaz del tiempo.
-
-Actualmente, estoy buscando nuevas oportunidades para aprovechar mi experiencia, contribuyendo a proyectos innovadores y sostenibles. Estoy interesada en aportar con enfoque analítico y capacidad para gestionar proyectos.
 
 ## 📫 Contacto
 
