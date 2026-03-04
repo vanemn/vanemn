@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=1A7A5C&height=180&section=header&text=Data%20Analyst%20%7C%20Data%20Scientist&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Project%20Manager%20%7C%20MBA%20%7C%20MSc%20Business%20%26%20IT&descAlignY=58&descAlign=50)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vanessamoralesnorambuena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamoralesnorambuena)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vanemn.github.io-1A7A5C?style=for-the-badge&logo=github&logoColor=white)](https://vanemn.github.io/assenavdigital/)
