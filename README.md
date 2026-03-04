@@ -71,16 +71,6 @@ vanessa = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanemn&show_icons=true&theme=vue&hide_border=true&bg_color=f0faf6&title_color=1A3A5C&icon_color=1A7A5C&text_color=333333)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanemn&layout=compact&theme=vue&hide_border=true&bg_color=f0faf6&title_color=1A3A5C&text_color=333333)
-
-</div>
-
----
 
 ## 🎓 Certificaciones
 
