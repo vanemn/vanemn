@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-Project Manager con **+10 años de experiencia** en gestión de proyectos y control de calidad, en transición hacia **Data Analytics y Data Science**. Actualmente cursando el **Máster en Empresa y Tecnologías de la Información** en la Universidad de Cantabria, España.
+Project Manager con **experiencia en gestión de proyectos y control de calidad**, en transición hacia **Data Analytics y Data Science**. Actualmente cursando el **Máster en Empresa y Tecnologías de la Información** en la Universidad de Cantabria, España.
 
 Combino una sólida base en gestión estratégica (MBA, ISO 9001, Diplomado en PM — PUC Chile) con competencias técnicas crecientes en Python, SQL, R y visualización de datos. Mi ventaja diferencial: **entiendo el negocio detrás de los datos**.
 
