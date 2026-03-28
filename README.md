@@ -19,7 +19,7 @@ Combino una sólida base en gestión estratégica (MBA, ISO 9001, Diplomado en P
 
 ```python
 vanessa = {
-    "ubicacion":     "Santander, España 🇪🇸",
+    "ubicacion":     "España 🇪🇸",
     "formacion":     ["MSc Business & IT (UC, 2026)", "MBA (UCN, 2021)", "Ing. Construcción (Duoc UC, 2011)"],
     "stack_datos":   ["Python", "Pandas", "NumPy", "Scikit-learn", "SQL", "R", "Power BI", "Matplotlib", "Seaborn"],
     "stack_dev":     ["Django", "PostgreSQL", "HTML", "CSS", "JavaScript", "Bootstrap"],
